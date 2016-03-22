@@ -12,7 +12,7 @@
  define("DB_HOST","localhost");
  define("DB_USER","root");
  define("DB_PASS","root");
- define("DB_NAME","mvc_basic");
+ define("DB_NAME","oop1");
 
  define("ROOT_PATH","/");
- define("ROOT_URL","http://mvc_basic/");
+ define("ROOT_URL","http://devMvcBasic/");

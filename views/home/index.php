@@ -13,6 +13,6 @@
     Welcome to the PostBoard
 </h1>
 <p class="lead">Find something new and share it</p>
-<?echo var_dump($viewmodel);?>
 <a class="btn btn-primary text-center" href="<?php echo ROOT_URL;?>posts">Share now</a>
 </div>
+
